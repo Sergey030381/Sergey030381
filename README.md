@@ -1,0 +1,5 @@
+- 👋 Hi, my name is Sergey
+- 👀 I’m interested in QA-Ingenering, python
+- 🌱 I’m currently learning QA-Ingeneer
+- 💞️ I’m looking to collaborate on learning python
+- 📫 You can contact me - sergey030381@gmail.com
